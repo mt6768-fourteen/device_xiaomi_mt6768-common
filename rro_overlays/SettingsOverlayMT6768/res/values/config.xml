@@ -27,4 +27,12 @@
          should be either LOW (1) or HIGH (3).
     -->
     <integer name="config_vibration_supported_intensity_levels">3</integer>
+
+    <!-- Set Window animation scale to 50% by default -->
+    <fraction name="def_window_animation_scale">0%</fraction>
+
+    <!-- Set Window transition scale to 50% by default -->
+    <fraction name="def_window_transition_scale">0%</fraction>
+
 </resources>
+
